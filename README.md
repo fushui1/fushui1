@@ -43,3 +43,38 @@ Create videos with text prompts, first-and-last-frame inputs, or reference image
 ### [Neatbo](https://neatbo.com/)
 Use browser tools for PDF organization, image compression and conversion, text processing, ebooks, and structured data. Examples include merging PDFs, converting Markdown to Word, formatting JSON, and resizing images. Choose the tool for the specific input and output you need.
 
+## Learning and printable practice
+
+### [CipherSteps](https://ciphersteps.online/)
+Explore classic ciphers with step-by-step explanations and printable puzzles.
+
+### [MapRounds](https://maprounds.online/)
+Practice maps, flags, and capitals with geography quizzes.
+
+### [MathSprig](https://mathsprig.site/)
+Create printable math practice sheets with matching answer keys.
+
+### [PuzzleKitLab](https://puzzlekitlab.site/)
+Create printable word searches, word scrambles, and bingo cards from themed or custom word lists.
+
+### [TracePageLab](https://tracepagelab.online/)
+Make handwriting practice sheets for names, letters, words, and sentences, or prepare blank writing paper.
+
+## Color, text, and word art
+
+### [ColorPairLab](https://colorpairlab.online/)
+Check text contrast, convert color values, and build palettes.
+
+### [GlyphIndex](https://glyphindex.site/)
+Find Unicode symbols and inspect, normalize, or convert text.
+
+### [WordShapeLab](https://wordshapelab.online/)
+Create shaped word clouds with editable words, weights, and styles. Review the layout report to see which words fit.
+
+## Running and craft planning
+
+### [PaceRibbon](https://paceribbon.online/)
+Calculate running pace and cumulative splits, and prepare printable race pace bands.
+
+### [QuiltMargins](https://quiltmargins.online/)
+Estimate fabric quantities and plan binding, backing, borders, and blocks with quilting calculators.
